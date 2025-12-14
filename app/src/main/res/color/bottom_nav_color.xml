@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Author: WANGQINGBIN
+    A20478885
+    qwang93@hawk.illinoistech.edu
+    ITMD 555
+    Bottom Navigation Color Selector
+-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Selected state -->
+    <item android:color="@color/primary_blue" android:state_checked="true" />
+    <!-- Default state -->
+    <item android:color="@color/text_secondary" />
+</selector>
